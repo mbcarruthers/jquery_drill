@@ -1,7 +1,7 @@
 
 # Tasks
 
-In app.js, make sure all the HTML has loaded before using jQuery. (hint)
+In app.js, make sure all the HTML has loaded before using jQuery. 
 
 Create an `<input>` with a `type="submit"`, `id="btnSubmit"`, and `value="Submit"` in the index.html. Open the index.html in a browser and verify that a button appears.
 
@@ -13,20 +13,20 @@ In the index.html, create a `<form>` element with an `<input type="text">` field
 
 In app.js when the form is submitted, alert the value of the text input field. (hint) (hint)
 
-If the user has typed in the input field then the button should be enabled, otherwise the button should be disabled. (hint)
+If the user has typed in the input field then the button should be enabled, otherwise the button should be disabled. 
 
-Create a div element and append it to the body.
+Create a `div` element and append it to the body.
 
-When the user types in the input field and clicks submit, append the text in an h2 element to the div
+When the user types in the input field and clicks submit, append the text in an `h2` element to the div
 
-When the user mouses over the h2 element, assign it a new background color and border radius. (hint)
+When the user mouses over the `h2` element, assign it a new background color and border radius. 
 
-Great job! Now, delete the code for creating the h2 and we are going to work on creating a list
+Great job! Now, delete the code for creating the `h2` and we are going to work on creating a list
 
 Use jQuery to create an unordered list and append it to the body
 
 When the user submits the form, append the text as list item to the unordered list
 
-When the user clicks on the li element, assign it a random color.
+When the user clicks on the `li` element, assign it a random color.
 
-When the user double clicks on the list, remove the item that was clicked on. (hint)
+When the user double clicks on the list, remove the item that was clicked on. 
